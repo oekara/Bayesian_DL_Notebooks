@@ -1,0 +1,2 @@
+# PyTorch and JAX Bayesian Deep Learning Notebook Examples
+This folder consists of PyTorch implementation of a Bayesian Statistics exploration of some Gaussian Process based generative process that is using conditional variational autoencoder. The notebook with PyTorch was given to me, I have constructed same workflow in JAX, and implemented its counterpart that is using Normalizing Flow.
